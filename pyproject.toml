@@ -3,7 +3,7 @@ name = "ai-content"
 version = "0.1.0"
 description = "Multi-provider AI content generation framework for music, video, and images."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [{ name = "10Academy Training", email = "training@10academy.org" }]
 keywords = ["ai", "content-generation", "music", "video", "multimodal"]
